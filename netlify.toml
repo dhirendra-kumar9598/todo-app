@@ -1,0 +1,8 @@
+# Netlify build for the React client (the API is deployed separately).
+[build]
+  base = "client"
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"

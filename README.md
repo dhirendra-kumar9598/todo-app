@@ -3,7 +3,7 @@
 A mobile-first to-do app: create, edit, delete and search tasks, mark them **Completed** or **In Progress**,
 and track progress week by week (Monday → Sunday). Built from the provided Figma design.
 
-**Live demo:** _coming soon_ · **API:** _coming soon_
+
 
 > The API runs on Render's free tier and sleeps when idle, so the first request after a while can take ~50 s.
 

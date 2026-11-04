@@ -1,7 +1,7 @@
 # To-Do List — MERN
 
 A mobile-first to-do app: create, edit, delete and search tasks, mark them **Completed** or **In Progress**,
-and track progress week by week (Monday → Sunday). Built from the provided Figma design.
+and track progress week by week (Monday → Sunday).
 
 
 
